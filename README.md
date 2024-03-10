@@ -14,14 +14,11 @@
 Hi, My name is **Pedro Henrique**. I am:
 
 - 💻 A passionate developer from Brazil with some knowledge of Android Development & some other things
-- 🔭 I’m currently working on [RAE](https://github.com/AshbornXS/RAE)
+- 🔭 I’m currently working on nothing rip
 - 📝 I regularly read things with [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+
   
-[![Discord Presence](https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...)](https://discord.com/users/473643981151010816)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshbornXS&label=Profile%20views&color=F78F57&style=flat" alt="AshbornXS" /> </p>
-
-## ⚡ Technologies
+⚡ Technologies
 Here is a list of technologies that i have experience with:
 
 [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com)
@@ -32,6 +29,7 @@ Here is a list of technologies that i have experience with:
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com)
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/HTML5)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 [![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com)
 [![Arch Linux](https://img.shields.io/badge/arch_linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF)](https://www.archlinux.org)
@@ -42,3 +40,6 @@ Here is a list of technologies that i have experience with:
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+
+[![Discord Presence](https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...)](https://discord.com/users/473643981151010816)
