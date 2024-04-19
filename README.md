@@ -40,6 +40,3 @@ Here is a list of technologies that i have experience with:
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-
-
-[![Discord Presence](https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...)](https://discord.com/users/473643981151010816)
