@@ -6,11 +6,6 @@
 &nbsp;<a href="https://twitter.com/AshbornXS"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a></h1>
   
 ## 💡 About
-<a href="https://github.com/AshbornXS">
-  <img alt="GitHub Stats" align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=AshbornXS&show_icons=true&hide=issues&hide_border=true&theme=gruvbox&locale=pt-BR">
-  <img alt="Top Language" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshbornXS&hide=html,&hide_border=true&theme=gruvbox&locale=pt-BR">
-</a>
-
 Hi, My name is **Pedro Henrique**. I am:
 
 - 💻 A passionate developer from Brazil with some knowledge of Android Development & some other things
@@ -40,3 +35,9 @@ Here is a list of technologies that i have experience with:
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+
+<a href="https://github.com/AshbornXS">
+  <img alt="GitHub Stats" align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=AshbornXS&show_icons=true&hide=issues&hide_border=true&theme=gruvbox&locale=pt-BR">
+  <img alt="Top Language" align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshbornXS&hide=html,&hide_border=true&theme=gruvbox&locale=pt-BR&layout=compact">
+</a>
