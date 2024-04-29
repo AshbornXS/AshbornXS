@@ -63,7 +63,7 @@ Here is a list of technologies that I have some experience with:
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/AshbornXS/)
 
 <h1>
-<img width="200%" margin-bottom="1000px" style="margin-bottom: 13px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<img width="200%" style="margin-bottom: 13px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </h1>
 
 ## 🏆 Stats & Trophies
