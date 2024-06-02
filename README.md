@@ -18,7 +18,7 @@ Hi, My name is **Pedro Henrique**. I am:
 
 - 💻 A passionate developer from Brazil with some knowledge of Android Development & some other things
 - 🔭 I’m currently working on my future
-- 📝 I regularly read things with [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+- 📝 I regularly read things with [Yōkai](https://github.com/null2264/yokai)
 
 
 ## ⚙️ Current Specs
