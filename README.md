@@ -76,6 +76,8 @@ Here is a list of technologies that I have some experience with:
   <a href="https://github.com/AshbornXS"><img alt="Views" width="10%" src="https://komarev.com/ghpvc/?username=AshbornXS&label=Views&color=blueviolet"></a>
 </h1>
 
+<img alt="github-snake" src="https://github.com/AshbornXS/AshbornXS/blob/output/github-contribution-grid-snake-dark.svg" />
+
 <h1>
 <img width="200%" margin-bottom="1000px" style="margin-bottom: 13px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </h1>
